@@ -7,7 +7,6 @@ export default defineAstroPaperConfig({
     description: "Hello",
     author: "Sirmem",
     profile: "",
-    ogImage: "default-og.jpg",
     lang: "zh",
     timezone: "Asia/Shanghai",
     dir: "ltr",
@@ -24,15 +23,13 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/satnaing/astro-paper/edit/main/",
+      url: "https://github.com/SirMem/inkflow-blog/edit/main/",
     },
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/satnaing/astro-paper" },
-    { name: "x",        url: "https://x.com/username" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
-    { name: "mail",     url: "mailto:yourmail@gmail.com" },
+    { name: "github",   url: "https://github.com/SirMem" },
+    { name: "x",        url: "https://x.com/SirMem" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },

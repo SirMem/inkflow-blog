@@ -1,7 +1,7 @@
 ---
 title: "Spring @Configuration 配置类完全指南"
 description: "从零到一掌握 Spring 配置类的写法、原理和最佳实践"
-pubDate: 2026-07-14
+pubDatetime: 2026-07-14
 tags: ["Spring", "Java", "Backend"]
 author: "Sirmem"
 ---
